@@ -1,0 +1,30 @@
+<!DOCTYPEhtml >
+< html  lang =" pt " >
+    < cabeça >
+        < título >
+            Exemplos de alerta
+        </ título >
+        < meta  charset =" utf-8 " >
+        < meta  name =" viewport " content =" largura=largura do dispositivo, escala inicial=1 " >
+        < link  rel =" folha de estilo " href =" https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css " >
+        < script  src =" https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js " > </ script >
+        < script  scr =" https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js " > </ script >
+    </ cabeça >
+    < corpo >
+    < classe div  =" contêiner " >
+        < h3 > Exemplos de alerta no VsCode com bootstrap </ h3 >
+        < div  class =" alerta alerta-sucesso " >
+            < forte > Sucesso! </ strong > Mensagem de sucesso na exibição da mensagem
+        </ div >
+        < div  class =" alert alert-info " >
+            < forte > Informação! </ strong > Mensagem com informação alusiva de caráter informativo
+        </ div >
+        < div  class =" alerta alerta-aviso " >
+            < forte > Atenção! </ strong > Mensagem de atenção reforçando ou ratificando algo importante
+        </ div >
+        < div  class =" alerta alerta-perigo " >
+            < forte > Cuidado! </ strong > Mensagem de cuidado com relação a algum erro ou falha de execução
+        </ div >
+</ div >
+</ corpo >
+</ html >
